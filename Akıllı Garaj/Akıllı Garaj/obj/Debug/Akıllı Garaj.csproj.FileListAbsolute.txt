@@ -1,0 +1,23 @@
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\bin\Debug\Akıllı Garaj.exe.config
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\bin\Debug\Akıllı Garaj.exe
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\bin\Debug\Akıllı Garaj.pdb
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Form1.resources
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Properties.Resources.resources
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.csproj.GenerateResource.cache
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.exe
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.pdb
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Form2.resources
+C:\Users\MERT\source\repos\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Form3.resources
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\bin\Debug\Akıllı Garaj.exe.config
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\bin\Debug\Akıllı Garaj.exe
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\bin\Debug\Akıllı Garaj.pdb
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.csprojResolveAssemblyReference.cache
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Form1.resources
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Form2.resources
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Form3.resources
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı_Garaj.Properties.Resources.resources
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.csproj.GenerateResource.Cache
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.exe
+C:\Users\Ayhan\Desktop\Kodlar\Akıllı Garaj\Akıllı Garaj\obj\Debug\Akıllı Garaj.pdb
